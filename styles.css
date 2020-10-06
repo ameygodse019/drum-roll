@@ -1,14 +1,10 @@
 body {
   text-align: center;
   background-color: #283149;
-}
-
-h1 {
-  font-size: 5rem;
+   font-size: 5rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
-
 }
 
 footer {
@@ -54,7 +50,7 @@ footer {
 }
 
 .red {
-  color: red;
+  color: #ff0000;
 }
 
 .drum {
@@ -72,5 +68,5 @@ footer {
   height: 150px;
   text-align: center;
   margin: 10px;
-  background-color: white;
+  background-color: #FFFFFF;
 }
